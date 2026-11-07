@@ -1,4 +1,6 @@
-# Dungeon Descent
+# Dungeon Descent — Legacy Copy
+
+> **Earlier portfolio copy.** The [current Dungeon Descent repository](https://github.com/DarianRobert/Dungeon-Descent) contains the original team commit history and is the version linked from my portfolio. This repository is retained as an older snapshot.
 
 A Windows dungeon game developed as the University of KwaZulu-Natal **COMP315 Group 7** team project.
 
@@ -75,3 +77,4 @@ For a Debug build, configure the Debug | x64 settings separately and use the mat
 This is a team project and includes contributions from multiple developers. Team credits are included in the application's developer screen. The [original team repository](https://github.com/ArjunRamphal/Dungeon_Descent) is also available.
 
 [My project portfolio](https://darianrobert.github.io/)
+
